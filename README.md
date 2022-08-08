@@ -1,4 +1,5 @@
-##Projeto Ping Pong Javascript Alura
+## Projeto Ping Pong Javascript Alura
+
 - Projeto que iniciei meus estudos na área de desenvolvimento de software na alura
 - Consiste em usar
     - conceitos iniciais de Javascript
